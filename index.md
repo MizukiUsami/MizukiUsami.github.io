@@ -1,7 +1,6 @@
 ## Welcome to my GitHub Pages
 ![texture](ハナコトバ (花语)-戸松遥 (とまつ はるか).白石晴香 (しらいし はるか).三.jpg)
-****  
-****  
+---
 ## Self-introduction
 My name is YangHaoxin,I am a student of ChengDu technology university which in China,and I am a Chinese.
 I like programming but But what I did was mediocre.
